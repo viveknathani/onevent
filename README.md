@@ -18,10 +18,10 @@ emitter.emit("two");
 emitter.emit("one");
 ```
 
-### Contributing
+### contributing
 
 I am happy to accept pull requests. No hard rules.
 
-### Acknowledgements
+### acknowledgements
 
 created by Vivek Nathani ([@viveknathani_](https://twitter.com/viveknathani_)), licensed under the [MIT License](./LICENSE).
